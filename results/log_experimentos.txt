@@ -1,0 +1,14 @@
+n10  bb    t=   0.124s mem=     17.9 KiB  |frente|= 13.0 completo=True
+n10  geo   t=   0.002s mem=     16.7 KiB  |frente|=  3.0 completo=True
+n10  mosa  t=   0.243s mem=     16.9 KiB  |frente|= 11.8 completo=True
+n15  bb    t=  19.957s mem=     34.4 KiB  |frente|= 16.4 completo=False
+n15  geo   t=   0.004s mem=     33.5 KiB  |frente|=  2.0 completo=True
+n15  mosa  t=   0.508s mem=     37.9 KiB  |frente|= 17.8 completo=True
+n20  bb    t=  19.989s mem=     64.8 KiB  |frente|=  4.0 completo=False
+n20  geo   t=   0.009s mem=     64.7 KiB  |frente|=  2.0 completo=True
+n20  mosa  t=   0.855s mem=     93.8 KiB  |frente|=  5.8 completo=True
+n25  bb    t=  20.013s mem=     71.3 KiB  |frente|=  9.0 completo=False
+n25  geo   t=   0.018s mem=     70.8 KiB  |frente|=  1.0 completo=True
+n25  mosa  t=   1.337s mem=    144.6 KiB  |frente|=  7.0 completo=True
+Resultados en results/resumen.csv y results/frentes.json
+FIN
